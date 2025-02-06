@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Họ và Tên: Lê Anh Đức</h1>
+    <h2>
+    <br>Vị trí: Lập trình viên Frontend
+    </h2>
+    <img
+    src="https://tse2.mm.bing.net/th?id=OIP.IUlhdB0YkLWNe_cs8cQ1BwHaEB&pid=Api&P=0&h=220"
+    />
+    <h1>Thông tin liên hệ</h1>
+     <h2>
+       <li>Email: ducle070106@gmail.com</li>
+     </h2>
+     <h2>
+       <li>Số điện thoại: 0353016308</li>
+     </h2>
+     <h2>
+       <li>Địa chỉ: Hà Đông, Hà Nội</li>
+     </h2>
+    <h1>Kỹ năng</h1>
+     <h2>
+        <li>HTML, CSS, JavaScript</li>
+     </h2>
+     <h2>
+        <li>ReactJS, Angular</li>
+     </h2>
+     <h2>
+        <li>Git, GitHub</li>
+     </h2>
+    <h1>Kinh nghiệm làm việc</h1>
+     <h2>
+        <li>Công ty XYZ (01/2020-Hiện tại)</li>
+     </h2>
+     <br>Vị trí: Lập trình viên Frontend
+     <h2>
+        <li>Công ty ABC (06/2018 - 12/2019)</li>
+     </h2>
+     <br>Vị trí: Thực tập phát triển wed
+    <h1>Học vấn</h1>
+     <h2>
+        <li>Đại học công nghệ thông tin</li>
+     </h2>
+        <br>Chuyên ngành: Khoa học máy tính
+        <br>Thời gian: 2015 - 2019
+        <br> Lê Anh Đức
+</body>
+</html>
